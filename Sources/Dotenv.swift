@@ -1,4 +1,3 @@
-import Darwin
 import Foundation
 
 /// Structure used to load and save environment files.
